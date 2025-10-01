@@ -1,6 +1,2 @@
-## 🌍 Bản đồ dân số VN 2020
-
-<iframe src="https://ji-ly.github.io/pop_dens_vn/" 
-        width="100%" height="600" style="border:none;">
-</iframe>
-
+# 🌍 Bản đồ dân số VN 2020
+👉 Repo này hiển thị trực tiếp tại: [https://ji-Ly.github.io/pop_dens_vn/](https://ji-Ly.github.io/pop_dens_vn/)
